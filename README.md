@@ -1,2 +1,2 @@
-# Circleproject
+# Circle Project
 This program calculates the diameter, circumference, and area of a circle based on the radius provided by the user. When the program is ran, it prompts the user to enter a value for the radius, which is then stored in the variable circleradius. Then, the program substitutes the inputed value of the radius into formulas to find the diameter of a circle, the circumference of a circle, and the area of a circle, calculating each value sequentially. Finally, the program outputs the computed diameter, circumference, and area.
